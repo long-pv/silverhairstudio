@@ -1,0 +1,19 @@
+/*
+Theme Name: Silver Hair Studio
+Theme URI: https://btchairstudio.com/
+Author: Antigravity AI
+Description: Custom WordPress theme for Behind The Chair Hair Studio landing page.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: silverhairstudio
+*/
+
+
+/* Mobile Menu Open Classes (Zyrosite missing injected styles) */
+.burger--open[data-v-43ca5418]{animation:none}
+.burger--open .burger__bun[data-v-43ca5418]:first-child{top:-1px;transform:rotate(45deg)}
+.burger--open .burger__bun[data-v-43ca5418]:last-child{transform:rotate(-45deg)}
+.burger--open .burger__meat[data-v-43ca5418]{opacity:0;width:0%}
+.block-header-layout-mobile__dropdown--open[data-v-c1535ecd]{visibility:visible;height:auto;max-height:50vh;padding:24px 16px;animation:0s .5s forwards show-overflow-c1535ecd;box-shadow:0 6px 14px -10px #0000001a}
+@keyframes show-overflow-c1535ecd{to{overflow-y:auto}}
